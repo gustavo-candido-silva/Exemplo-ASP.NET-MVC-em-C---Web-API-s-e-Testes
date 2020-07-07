@@ -7,7 +7,7 @@
 * ExemploAPI - Projeto exemplo de API para o que executam, via API , as funções do sistema de exemplo do projeto ExemploMvc
 * ExemploTeste - Projeto de testes das operações da API do projeto ExemploAPI
 
-** Para executar clone o projeto dentro de uma pasta local e abra a solution que está dentro da pasta ExemploMvc no Visual Studio, 
-** ou clone o conteúdo diretamente na IDE com a extensão do github para Visual Studio.
+<b>Para executar clone o projeto dentro de uma pasta local e abra a solution que está dentro da pasta ExemploMvc no Visual Studio, 
+ou clone o conteúdo diretamente na IDE com a extensão do github para Visual Studio.</b>
 
 
