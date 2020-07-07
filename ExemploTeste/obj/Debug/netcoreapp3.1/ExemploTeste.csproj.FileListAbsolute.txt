@@ -238,4 +238,3 @@ C:\Users\gusta\OneDrive\Documentos\ciencia de dados\ASP_MVC\ExemploTeste\obj\Deb
 C:\Users\gusta\OneDrive\Documentos\ciencia de dados\ASP_MVC\ExemploTeste\bin\Debug\netcoreapp3.1\Castle.Core.dll
 C:\Users\gusta\OneDrive\Documentos\ciencia de dados\ASP_MVC\ExemploTeste\bin\Debug\netcoreapp3.1\Moq.dll
 C:\Users\gusta\OneDrive\Documentos\ciencia de dados\ASP_MVC\ExemploTeste\obj\Debug\netcoreapp3.1\ExemploTeste.csproj.CoreCompileInputs.cache
-C:\Users\gusta\OneDrive\Documentos\ciencia de dados\ASP_MVC\ExemploTeste\bin\Debug\netcoreapp3.1\ExemploAPI.StaticWebAssets.xml

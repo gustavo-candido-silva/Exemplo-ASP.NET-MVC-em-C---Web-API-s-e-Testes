@@ -43,7 +43,7 @@ namespace ExemploTeste
 
             var service = new CategoriasController(_mockContexto.Object);
 
-            await service.GetCategoria(id:1);
+            await service.GetCategoria(id:3);
 
             _mockSet.Verify(expression: m => m.FindAsync(3), Times.Once);
 
@@ -83,7 +83,7 @@ namespace ExemploTeste
 
             await service.DeleteCategoria(id: 3);
 
-            _mockSet.Verify(expression: m => m.FindAsync(1), Times.Once);
+            _mockSet.Verify(expression: m => m.FindAsync(3), Times.Once);
             _mockSet.Verify(expression: m => m.Remove(_categoria), Times.Once);
             _mockContexto.Verify(expression: m => m.SaveChangesAsync(It.IsAny<CancellationToken>()), Times.Once);
 
