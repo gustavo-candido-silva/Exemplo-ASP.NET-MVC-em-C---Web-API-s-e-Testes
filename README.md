@@ -3,7 +3,7 @@
 
 ### Projetos da solution
 
-* ExemploMvc - Projeto exemplo de sistema web de cadatro de produtos e categorias de produtos utilizando ASP.NET MVC e EntityFramework e SQL Server
+* ExemploMvc - Projeto exemplo de sistema web de cadastro de produtos e categorias de produtos utilizando ASP.NET MVC e EntityFramework e SQL Server
 * ExemploAPI - Projeto exemplo de API para o que executam, via API , as funções do sistema de exemplo do projeto ExemploMvc
 * ExemploTeste - Projeto de testes das operações da API do projeto ExemploAPI
 
