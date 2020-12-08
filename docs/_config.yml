@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 logo: https://github.com/gustavo-candido-silva/Exemplo-ASP.NET-MVC-em-C---Web-API-s-e-Testes/blob/master/docs/Ilustracao_Sem_Titulo.png?raw=true
 title: Exemplo ASP.NET Core MVC, Web APIs e Testes
-download: true
+show_downloads: true
